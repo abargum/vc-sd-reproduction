@@ -1,8 +1,0 @@
-descript-audio-codec
-torch==2.5.1
-torchaudio==2.5.1
-torchfcpe
-mpl-tools
-pydub
-scikit_posthocs
-transformers
