@@ -52,7 +52,7 @@ python scripts/get_metrics.py
 All .csv file are included. Paths should be reconfigured.
 
 ```bash
-python scripts/pitch_ab.py \
+python evaluation/pitch_ab.py \
 python evaluation/nMOS_seen.py \
-python scripts/nMOS_unseen.py 
+python evaluation/nMOS_unseen.py 
 ```
