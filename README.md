@@ -41,9 +41,9 @@ python create_data.py
 All paths should be reconfigured, but can be set in each individual file.
 
 ```bash
-python scripts/plot_content_comparison.py \
-python scripts/plot_prosody_output.py \
-python scripts/convert.py \
+python scripts/plot_content_comparison.py
+python scripts/plot_prosody_output.py
+python scripts/convert.py
 python scripts/get_metrics.py
 ```
 
@@ -52,7 +52,7 @@ python scripts/get_metrics.py
 All .csv file are included. Paths should be reconfigured.
 
 ```bash
-python evaluation/pitch_ab.py \
-python evaluation/nMOS_seen.py \
+python evaluation/pitch_ab.py
+python evaluation/nMOS_seen.py
 python evaluation/nMOS_unseen.py 
 ```
