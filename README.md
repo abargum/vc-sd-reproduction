@@ -23,8 +23,7 @@ pip install -r requirements.txt
 
 If you just want to play with the model itself, this can be done in demo.ipynb. 
 There is no need to download the data for this stage as demonstration-data is provided. \
-You can also try the demo on google colab here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abargum/vc-sd-reproduction
-/blob/main/demo_colab.ipynb)
+You can also try the demo on google colab here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abargum/vc-sd-reproduction/blob/main/demo_colab.ipynb)
 
 ### 4. Download Required Datasets
 
